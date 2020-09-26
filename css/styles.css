@@ -9,7 +9,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-}
+} 
 
 .col-lg-4 {
   padding: 1%;
@@ -28,8 +28,10 @@ img {
   background-color: white;
 }
 
-.col-sm {
+.col-lg {
   padding: 20px;
+  margin: 10px;
+  margin-bottom: 50px;
 }
 
 h1 {
